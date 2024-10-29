@@ -1,0 +1,1 @@
+https://colab.research.google.com/github/practical-nlp/practical-nlp/blob/master/Ch3/05_Pre_Trained_Word_Embeddings.ipynb?authuser=1
